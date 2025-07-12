@@ -1,7 +1,7 @@
 
 #include "raylib.h"
 #include "raymath.h"
-#include "include/tinyphysicsengine.h"
+#include "include/physics.h"
 #include "math.h"
 
 #define virtualScreenWidth 640

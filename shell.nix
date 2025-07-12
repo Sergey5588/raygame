@@ -8,6 +8,7 @@
   libpng
 	xorg.libX11.dev
   raylib
+  ode
     ];
     LD_LIBRARY_PATH="/home/sergey/projects/c/raylib/lib/:$LD_LIBRARY_PATH";
 
